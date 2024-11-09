@@ -1,12 +1,10 @@
 <template>
-    <div class="flex items-center justify-center min-h-screen bg-[#001449]">
       <div class="text-center bg-[#012677] p-20 font-bold">
         <!-- Heading -->
         <h1 class="text-5xl font-extrabold mb-8 text-white tracking-wide">Welcome to Our Platform</h1>
         <!-- Subtitle -->
         <p class="text-lg text-white mb-8">Scan the QR code below to get started.</p>
       </div>
-    </div>
   </template>
   
   <script>
